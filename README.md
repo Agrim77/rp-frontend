@@ -28,10 +28,9 @@ After successful login, chat page will look this:
 4. MongoDB - to store user data, messages
 5. Socket.io - For continuous hooking of messages from server to client
 without refresh
-6. ngrok - For temporary server hosting
-7. Graph API Facebook - For data transactions between facebook page
-8. Facebook Webhooks - For continuous updates on pages
-9. Messenger API - to receive Messages on profile using Webhooks
+6. Graph API Facebook - For data transactions between facebook page
+7. Facebook Webhooks - For continuous updates on pages
+8. Messenger API - to receive Messages on profile using Webhooks
 
 <hr />
 

@@ -8,7 +8,7 @@ and then open [http://localhost:3000](http://localhost:3000) to see the result.
 
 <hr />
 
-This app will allow clients to connect their fb accounts, listen to their comments or messenger messages and reply to them within the application.
+After successful login, chat page will look this:
 
 ![1](https://user-images.githubusercontent.com/47441501/130314297-fb42aa73-6d9a-47ac-aa3c-c9a4550f9aad.png)
 
@@ -18,6 +18,8 @@ This app will allow clients to connect their fb accounts, listen to their commen
 * Login using Facebook login id and password
 * Real time chat update with auto refreshing
 * Time stamp to segeregate the messages
+
+<hr />
 
 ## Technologies Used:
 1. NextJS, NextAuth
@@ -31,6 +33,7 @@ without refresh
 8. Facebook Webhooks - For continuous updates on pages
 9. Messenger API - to receive Messages on profile using Webhooks
 
+<hr />
 
 ## Challenges Faced:
 1. I was not able to integrate Comments API and webhook because

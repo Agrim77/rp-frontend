@@ -4,6 +4,7 @@
 - I had to create a POC (Proof of Concept) app. This app will allow clients to connect their fb accounts, listen to their comments or messenger messages and reply to them within the application.
 - This repo is for frontend only.
 - Backend can be found here: https://github.com/Agrim77/rp-backend
+- Deployement can be seen at: https://rp-frontend.vercel.app
 
 <hr />
 

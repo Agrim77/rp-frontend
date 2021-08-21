@@ -1,3 +1,12 @@
+## Introduction
+
+- I have made this as a submission for Richpanel interview round.
+- I had to create a POC (Proof of Concept) app. This app will allow clients to connect their fb accounts, listen to their comments or messenger messages and reply to them within the application.
+- This repo is for frontend only.
+- Backend can be found here: https://github.com/Agrim77/rp-backend
+
+<hr />
+
 ## Getting Started
 
 First, run the development server:
@@ -24,7 +33,7 @@ After successful login, chat page will look this:
 ## Technologies Used:
 1. NextJS, NextAuth
 2. Recoil JS - For global State management
-3. NodeJS - for backend serving
+3. NodeJS - for backend serving (https://github.com/Agrim77/rp-backend)
 4. MongoDB - to store user data, messages
 5. Socket.io - For continuous hooking of messages from server to client
 without refresh

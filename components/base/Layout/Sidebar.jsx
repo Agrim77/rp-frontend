@@ -56,7 +56,7 @@ function Sidebar({ active }) {
 				<div className='user p-5'>
 					<Link href='/profile'>
 						<img
-							src='https://randomuser.me/api/portraits/men/60.jpg'
+							src='https://randomuser.me/api/portraits/men/3.jpg'
 							className='h-10 rounded-full mx-auto'
 							alt='user'
 						/>

@@ -2,7 +2,7 @@
 
 First, run the development server:
 
-npm run dev
+`npm run dev`
 
 and then open [http://localhost:3000](http://localhost:3000) to see the result.
 
